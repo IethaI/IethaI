@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @IethaI
+- 👀 But don't worry, I'm not lethal
+- 🌱 I’m currently learning PHP / Laravel
+- 💞️ I’m looking to collaborate on Trucky
